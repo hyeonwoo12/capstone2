@@ -1,0 +1,2 @@
+. ${R}etc/init.d/rc.mc_defaults
+set MIXER tri_y_yaw-

@@ -1,0 +1,9 @@
+Device MK66FN2M0xxx18
+eoe 1
+si SWD
+speed auto
+r
+h
+loadbin nxp_fmuk66-v3_default.bin,0x08008000
+go
+qc

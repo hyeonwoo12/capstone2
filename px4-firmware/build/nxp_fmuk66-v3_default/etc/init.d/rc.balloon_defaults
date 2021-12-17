@@ -1,0 +1,2 @@
+set VEHICLE_TYPE fw
+param set-default SYS_MC_EST_GROUP 1

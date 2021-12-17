@@ -1,0 +1,13 @@
+# Target labels
+ FlameGraph
+# Source files and their labels
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/platforms/nuttx/CMakeFiles/FlameGraph
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/platforms/nuttx/CMakeFiles/FlameGraph.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/platforms/nuttx/CMakeFiles/FlameGraph-complete.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-build.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-configure.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-download.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-install.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-mkdir.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-patch.rule
+/home/hwpark/capstone2/px4-firmware/build/nxp_fmuk66-v3_default/external/Stamp/FlameGraph/FlameGraph-update.rule

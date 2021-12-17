@@ -1,0 +1,9 @@
+set VEHICLE_TYPE uuv
+param set-default PWM_MAIN_MAX 1950
+param set-default PWM_MAIN_MIN 1050
+param set-default PWM_MAIN_DISARM 1500
+set PWM_MAIN_RATE 50
+set PWM_OUT 1234
+set MIXER_AUX pass
+set PWM_AUX_OUT 1234
+set PWM_AUX_RATE 50

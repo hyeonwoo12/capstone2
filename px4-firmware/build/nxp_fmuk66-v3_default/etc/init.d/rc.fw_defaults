@@ -1,0 +1,31 @@
+set VEHICLE_TYPE fw
+param set-default COM_POS_FS_DELAY 5
+param set-default COM_POS_FS_EPH 15
+param set-default COM_POS_FS_EPV 30
+param set-default COM_POS_FS_GAIN 0
+param set-default COM_POS_FS_PROB 1
+param set-default COM_VEL_FS_EVH 5
+param set-default COM_DISARM_PRFLT -1
+param set-default EKF2_ARSP_THR 8
+param set-default EKF2_FUSE_BETA 1
+param set-default EKF2_GPS_CHECK 21
+param set-default EKF2_MAG_ACCLIM 0
+param set-default EKF2_MAG_YAWLIM 0
+param set-default EKF2_REQ_EPH 10
+param set-default EKF2_REQ_EPV 10
+param set-default EKF2_REQ_HDRIFT 0.5
+param set-default EKF2_REQ_SACC 1
+param set-default EKF2_REQ_VDRIFT 1.0
+param set-default RTL_TYPE 1
+param set-default RTL_RETURN_ALT 100
+param set-default RTL_DESCEND_ALT 100
+param set-default RTL_LAND_DELAY -1
+param set-default NAV_ACC_RAD 10
+param set-default MIS_DIST_WPS 5000
+param set-default MIS_LTRMIN_ALT 25
+param set-default MIS_TAKEOFF_ALT 25
+param set-default PWM_MAIN_RATE 50
+param set-default GPS_UBX_DYNMODEL 8
+set MIXER_AUX pass
+set PWM_AUX_RATE 50
+set PWM_AUX_OUT 1234

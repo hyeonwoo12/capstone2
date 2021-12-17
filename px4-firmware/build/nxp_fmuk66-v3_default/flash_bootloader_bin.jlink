@@ -1,0 +1,9 @@
+Device MK66FN2M0xxx18
+eoe 1
+si SWD
+speed auto
+r
+h
+loadbin nxp_fmuk66-v3_bootloader.bin,0x08000000
+go
+qc
