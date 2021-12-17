@@ -12,4 +12,8 @@
 ## ECDSA 
 ![Screenshot from 2021-12-17 13-28-55](https://user-images.githubusercontent.com/55688999/146489093-83643a94-2412-4380-ae40-667270add662.png) </br>![Screenshot from 2021-12-17 13-30-29](https://user-images.githubusercontent.com/55688999/146489211-14c0ac63-9674-4195-8d6f-aa478cc80ca3.png) </br> 
 ![Screenshot from 2021-12-17 13-30-35](https://user-images.githubusercontent.com/55688999/146489235-8553af2f-878c-45ae-86bd-19c07723122f.png) </br>
-ECDSA 전자서명 생성은 로컬 컴퓨터의 Visual Studio 환경에서, 검증은 nxpexpresso 환경에서 실행하여 디버깅 결과를 확인함
+ECDSA 전자서명 생성은 로컬 컴퓨터의 Visual Studio 환경에서, 검증은 nxpexpresso 환경에서 실행하여 디버깅 결과를 확인함 </br>
+
+## J-Link
+![Screenshot from 2021-12-17 13-34-28](https://user-images.githubusercontent.com/55688999/146489544-d19fa610-ded8-4bbf-923d-81d15f6b8cd6.png) </br>
+J-Link-Debugger을 통해 NXP 보드를 연결 후 부트로더 업로드 및 전자서명 검증 결과를 확인함
